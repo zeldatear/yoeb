@@ -47,28 +47,28 @@
 
 
 //Season start//
-[Type] == "Orb of Alteration" # [StashItem] == "true"
-[Type] == "Chromatic Orb" # [StashItem] == "true"
-[Type] == "Jeweller's Orb" # [StashItem] == "true"
-[Type] == "Orb of Horizons"# [StashItem] == "true"
-[Type] == "Blacksmith's Whetstone" # [StashItem] == "true"
-[Type] == "Armourer's Scrap" # [StashItem] == "true"
-[Type] == "Glassblower's Bauble"
-[Type] == "Blessed Orb" # [StashItem] == "true"
-[Type] == "Orb of Regret"# [StashItem] == "true"
-[Type] == "Orb of Unmaking"# [StashItem] == "true"
-[Type] == "Enkindling Orb"# [StashItem] == "true"
-[Type] == "Instilling Orb" # [StashItem] == "true"
-[Type] == "Orb of Scouring" # [StashItem] == "true"
-[Type] == "Regal Orb" # [StashItem] == "true"
-[Type] == "Vaal Orb" # [StashItem] == "true" //	//瓦爾寶珠
+//[Type] == "Orb of Alteration" # [StashItem] == "true"
+//[Type] == "Chromatic Orb" # [StashItem] == "true"
+//[Type] == "Jeweller's Orb" # [StashItem] == "true"
+//[Type] == "Orb of Horizons"# [StashItem] == "true"
+//[Type] == "Blacksmith's Whetstone" # [StashItem] == "true"
+//[Type] == "Armourer's Scrap" # [StashItem] == "true"
+//[Type] == "Glassblower's Bauble"
+//[Type] == "Blessed Orb" # [StashItem] == "true"
+//[Type] == "Orb of Regret"# [StashItem] == "true"
+//[Type] == "Orb of Unmaking"# [StashItem] == "true"
+//[Type] == "Enkindling Orb"# [StashItem] == "true"
+//[Type] == "Instilling Orb" # [StashItem] == "true"
+//[Type] == "Orb of Scouring" # [StashItem] == "true"
+//[Type] == "Regal Orb" # [StashItem] == "true"
+//[Type] == "Vaal Orb" # [StashItem] == "true" 
 
-[Type] == "Singular Scouting Report" # [StashItem] == "true" 
-[Type] == "Otherworldly Scouting Report" # [StashItem] == "true"
-[Type] == "Influenced Scouting Report" # [StashItem] == "true"
+//[Type] == "Singular Scouting Report" # [StashItem] == "true" 
+//[Type] == "Otherworldly Scouting Report" # [StashItem] == "true"
+//[Type] == "Influenced Scouting Report" # [StashItem] == "true"
 
 //[Category] == "Map" && [MapTier] >= "1"  #[StashItem] == "true"
-[Category] == "Map" && [MapTier] >= "1"  && [Rarity] == "Unique"  #[StashItem] == "true"
+//[Category] == "Map" && [MapTier] >= "1"  && [Rarity] == "Unique"  #[StashItem] == "true"
 
 //[Type] == "Amethyst Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //紫晶
 //[Type] == "Bismuth Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //灰岩
@@ -79,7 +79,6 @@
 
 [Category] == "Map" && [MapTier] >= "1"  && [Rarity] == "Unique"  #[StashItem] == "true"
 
-[Type] == "Portal" #  [StashItem] == "true"
 [Type] == "Chaos Orb" # [StashItem] == "true"
 
 [Type] == "Divine Orb" # [StashItem] == "true"
