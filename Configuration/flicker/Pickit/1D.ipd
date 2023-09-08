@@ -22,6 +22,7 @@
 [Type] == "Heavy Belt" && [Rarity] == "Unique" # [additional_dexterity] >= "30" && [StashItem] == "true"
 [Type] == "Leather Belt" && [Rarity] == "Unique" #  [additional_strength] >= "40" && [StashItem] == "true"
 [Type] == "Ruby Flask" && [Rarity] == "Unique" # [local_flask_area_of_effect_+%_during_flask_effect] >= "1" && [StashItem] == "true" Dying Sun
+[Type] == "Amethyst Ring" && [Rarity] == "Unique" # [UniqueName] == "Death Rush" && [StashItem] == "true"
 
 [Type] == "The Apothecary" # [StashItem] == "true"
 [Type] == "The Price Of Devotion" # [StashItem] == "true"
@@ -45,103 +46,21 @@
 [Type] == "Fire Of Unknown Origin" # [StashItem] == "true"//
 [Type] == "The Fortunate" # [StashItem] == "true"//
 
-
-//Season start//
-[Type] == "Orb of Alteration" # [StashItem] == "true"
-[Type] == "Chromatic Orb" # [StashItem] == "true"
-[Type] == "Jeweller's Orb" # [StashItem] == "true"
-[Type] == "Orb of Horizons"# [StashItem] == "true"
-[Type] == "Blacksmith's Whetstone" # [StashItem] == "true"
-[Type] == "Armourer's Scrap" # [StashItem] == "true"
-[Type] == "Glassblower's Bauble"
-[Type] == "Blessed Orb" # [StashItem] == "true"
-[Type] == "Orb of Regret"# [StashItem] == "true"
-[Type] == "Orb of Unmaking"# [StashItem] == "true"
-[Type] == "Enkindling Orb"# [StashItem] == "true"
-[Type] == "Instilling Orb" # [StashItem] == "true"
-[Type] == "Orb of Scouring" # [StashItem] == "true"
-[Type] == "Regal Orb" # [StashItem] == "true"
-[Type] == "Vaal Orb" # [StashItem] == "true" //	//瓦爾寶珠
-
-[Type] == "Singular Scouting Report" # [StashItem] == "true" 
-[Type] == "Otherworldly Scouting Report" # [StashItem] == "true"
-[Type] == "Influenced Scouting Report" # [StashItem] == "true"
-
-//[Category] == "Map" && [MapTier] >= "1"  #[StashItem] == "true"
-[Category] == "Map" && [MapTier] >= "1"  && [Rarity] == "Unique"  #[StashItem] == "true"
-
-//[Type] == "Amethyst Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //紫晶
-//[Type] == "Bismuth Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //灰岩
-//[Type] == "Granite Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //+1500護甲
-//[Type] == "Diamond Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //寶鑽
-
-//Season start//
-
-[Category] == "Map" && [MapTier] >= "1"  && [Rarity] == "Unique"  #[StashItem] == "true"
-
-[Type] == "Portal" #  [StashItem] == "true"
 [Type] == "Chaos Orb" # [StashItem] == "true"
-
 [Type] == "Divine Orb" # [StashItem] == "true"
 [Type] == "Exalted Orb" # [StashItem] == "true"
 [Type] == "Gemcutter's Prism" # [StashItem] == "true"
-
 [Type] == "Mirror of Kalandra" # [StashItem] == "true"
-[Type] == "Orb of Alchemy" # [StashItem] == "true"
+[Type] == "Mirror Shard" # [StashItem] == "true"
 [Type] == "Orb of Fusing" # [StashItem] == "true"
-
 [Type] == "Fracturing Orb" # [StashItem] == "true"
 [Type] == "Awakened Sextant" # [StashItem] == "true"
 [Type] == "Sacred Orb" # [StashItem] == "true"
 [Type] == "Orb of Annulment" # [StashItem] == "true"
+[Type] == "Annulment Shard" # [StashItem] == "true"
 [Type] == "Ancient Orb" # [StashItem] == "true"
 [Type] == "Ancient Shard" # [StashItem] == "true"
-[Type] == "Mirror Shard" # [StashItem] == "true"
 
-
-
-
-[Type] == "Abyssal Delirium Orb" # [StashItem] == "true"
-[Type] == "Blighted Delirium Orb" # [StashItem] == "true"
-[Type] == "Diviner's Delirium Orb" # [StashItem] == "true"
-[Type] == "Fine Delirium Orb" # [StashItem] == "true"
-[Type] == "Fossilised Delirium Orb" # [StashItem] == "true"
-[Type] == "Imperial Delirium Orb" # [StashItem] == "true"
-[Type] == "Portentous Delirium Orb" # [StashItem] == "true"
-[Type] == "Singular Delirium Orb" # [StashItem] == "true"
-[Type] == "Skittering Delirium Orb" # [StashItem] == "true"
-[Type] == "Thaumaturge's Delirium Orb" # [StashItem] == "true"
-[Type] == "Timeless Delirium Orb" # [StashItem] == "true"
-[Type] == "Whispering Delirium Orb" # [StashItem] == "true"
-[Type] == "Amorphous Delirium Orb" # [StashItem] == "true"
-[Type] == "Armoursmith's Delirium Orb" # [StashItem] == "true"
-[Type] == "Blacksmith's Delirium Orb" # [StashItem] == "true"
-[Type] == "Cartographer's Delirium Orb" # [StashItem] == "true"
-[Type] == "Decadent Delirium Orb" # [StashItem] == "true"
-[Type] == "Delirium Orb" # [StashItem] == "true"
-[Type] == "Foreboding Delirium Orb" # [StashItem] == "true"
-[Type] == "Fragmented Delirium Orb" # [StashItem] == "true"
-[Type] == "Jeweller's Delirium Orb" # [StashItem] == "true"
-[Type] == "Obscured Delirium Orb" # [StashItem] == "true"
-[Type] == "Primal Delirium Orb" # [StashItem] == "true"
-[Type] == "Simulacrum Splinter" # [StashItem] == "true"
-[Type] == "Simulacrum" # [StashItem] == "true"
-
-[Type] == "Golden Oil" # [StashItem] == "true"
-[Type] == "Silver Oil" # [StashItem] == "true"
-[Type] == "Opalescent Oil" # [StashItem] == "true"
-[Type] == "Crimson Oil" # [StashItem] == "true"
-[Type] == "Black Oil" # [StashItem] == "true"
-[Type] == "Azure Oil" # [StashItem] == "true"
-[Type] == "Violet Oil" # [StashItem] == "true"
-
-[Type] == "Abrasive Catalyst" # [StashItem] == "true"
-[Type] == "Fertile Catalyst" # [StashItem] == "true"
-[Type] == "Imbued Catalyst" # [StashItem] == "true"
-[Type] == "Intrinsic Catalyst" # [StashItem] == "true"
-[Type] == "Prismatic Catalyst" # [StashItem] == "true"
-[Type] == "Tempering Catalyst" # [StashItem] == "true"
-[Type] == "Turbulent Catalyst" # [StashItem] == "true"
 
 
 [Type] == "Tainted Chromatic Orb" # [StashItem] == "true"
@@ -170,9 +89,40 @@
 
 [Type] == "Einhar's Memory" # [StashItem] == "true"
 
-//[Type] == "Rogue's Marker" # [StashItem] == "true"
 [Type] == "Voidborn Reliquary Key" # [StashItem] == "true"
 
-[Type] == "Amethyst Ring" && [Rarity] == "Unique" # [UniqueName] == "Death Rush" && [StashItem] == "true"
+
+//Season start//
+
+//[Type] == "Orb of Alteration" # [StashItem] == "true"
+//[Type] == "Chromatic Orb" # [StashItem] == "true"
+//[Type] == "Jeweller's Orb" # [StashItem] == "true"
+//[Type] == "Orb of Horizons"# [StashItem] == "true"
+//[Type] == "Blacksmith's Whetstone" # [StashItem] == "true"
+//[Type] == "Armourer's Scrap" # [StashItem] == "true"
+//[Type] == "Glassblower's Bauble"
+//[Type] == "Blessed Orb" # [StashItem] == "true"
+//[Type] == "Orb of Regret"# [StashItem] == "true"
+//[Type] == "Orb of Unmaking"# [StashItem] == "true"
+//[Type] == "Enkindling Orb"# [StashItem] == "true"
+//[Type] == "Instilling Orb" # [StashItem] == "true"
+//[Type] == "Orb of Scouring" # [StashItem] == "true"
+//[Type] == "Regal Orb" # [StashItem] == "true"
+//[Type] == "Vaal Orb" # [StashItem] == "true" 
+//[Type] == "Orb of Alchemy" # [StashItem] == "true"
+
+//[Type] == "Singular Scouting Report" # [StashItem] == "true" 
+//[Type] == "Otherworldly Scouting Report" # [StashItem] == "true"
+//[Type] == "Influenced Scouting Report" # [StashItem] == "true"
+
+//[Category] == "Map" && [MapTier] >= "1"  #[StashItem] == "true"
+//[Category] == "Map" && [MapTier] >= "1"  && [Rarity] == "Unique"  #[StashItem] == "true"
+
+//[Type] == "Amethyst Flask"&& 		[ItemLevel] >= "83" && [ItemLevel] <="100" # [StashItem] == "true" //chaos resistant
+//[Type] == "Diamond Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //critical chance
+//[Type] == "Quicksilver Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //move speed
+
+//Season start//
+
 
 
