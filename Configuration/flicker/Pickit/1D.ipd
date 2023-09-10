@@ -84,31 +84,26 @@
 [Type] == "Screaming Invitation" # [StashItem] == "true"
 [Type] == "Incandescent Invitation" # [StashItem] == "true"
 [Type] == "Maven's Invitation: The Elderslayers" # [StashItem] == "true"
-
-[Sockets] == "6" && [Linked] >= "6" # [SellUnid]=="true" // Sell 6L6S
-
 [Type] == "Einhar's Memory" # [StashItem] == "true"
-
 [Type] == "Voidborn Reliquary Key" # [StashItem] == "true"
-
 
 //Season start//
 
-[Type] == "Orb of Alteration" # [StashItem] == "true"
+//[Type] == "Orb of Alteration" # [StashItem] == "true"
 //[Type] == "Chromatic Orb" # [StashItem] == "true"
-[Type] == "Jeweller's Orb" # [StashItem] == "true"
+//[Type] == "Jeweller's Orb" # [StashItem] == "true"
 //[Type] == "Orb of Horizons"# [StashItem] == "true"
 //[Type] == "Blacksmith's Whetstone" # [StashItem] == "true"
 //[Type] == "Armourer's Scrap" # [StashItem] == "true"
-[Type] == "Glassblower's Bauble"
-[Type] == "Blessed Orb" # [StashItem] == "true"
+//[Type] == "Glassblower's Bauble"
+//[Type] == "Blessed Orb" # [StashItem] == "true"
 //[Type] == "Orb of Regret"# [StashItem] == "true"
 //[Type] == "Orb of Unmaking"# [StashItem] == "true"
-[Type] == "Enkindling Orb"# [StashItem] == "true"
-[Type] == "Instilling Orb" # [StashItem] == "true"
+//[Type] == "Enkindling Orb"# [StashItem] == "true"
+//[Type] == "Instilling Orb" # [StashItem] == "true"
 //[Type] == "Orb of Scouring" # [StashItem] == "true"
 //[Type] == "Regal Orb" # [StashItem] == "true"
-[Type] == "Vaal Orb" # [StashItem] == "true" 
+//[Type] == "Vaal Orb" # [StashItem] == "true" 
 //[Type] == "Orb of Alchemy" # [StashItem] == "true"
 
 //[Type] == "Singular Scouting Report" # [StashItem] == "true" 
@@ -121,6 +116,8 @@
 //[Type] == "Amethyst Flask"&& 		[ItemLevel] >= "83" && [ItemLevel] <="100" # [StashItem] == "true" //chaos resistant
 //[Type] == "Diamond Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //critical chance
 //[Type] == "Quicksilver Flask"&& 		[ItemLevel] >= "85" && [ItemLevel] <="100" # [StashItem] == "true" //move speed
+
+//[Sockets] == "6" && [Linked] >= "6" # [SellUnid]=="true" // Sell 6L6S
 
 //Season start//
 
