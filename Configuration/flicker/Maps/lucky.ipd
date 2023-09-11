@@ -1,4 +1,4 @@
-//[Type] == "City Square Map" # [ExitAfterBossKill] == "true"
+[Type] == "City Square Map" # [ExitAfterBossKill] == "true"
 //[Type] == "Crimson Temple Map" # [ExitAfterBossKill] == "true"
 
 [Type] == "City Square Map" #[RunMap] == "true"
