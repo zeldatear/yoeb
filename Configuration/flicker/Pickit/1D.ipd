@@ -83,6 +83,7 @@
 [Type] == "Screaming Invitation" # [StashItem] == "true"
 [Type] == "Incandescent Invitation" # [StashItem] == "true"
 [Type] == "Maven's Invitation: The Elderslayers" # [StashItem] == "true"
+[Type] == "Maven's Invitation: The Formed" # [StashItem] == "true"
 [Type] == "Einhar's Memory" # [StashItem] == "true"
 [Type] == "Voidborn Reliquary Key" # [StashItem] == "true"
 
